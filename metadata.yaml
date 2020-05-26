@@ -1,5 +1,5 @@
 _repo: La-Nonne-Alferez_62216
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Vierge, Daniel
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1904
     gutenberg_agent_id: '43621'
     url: http://www.gutenberg.org/2009/agents/43621
+covers:
+- cover_type: archival
+  image_path: 62216-h/images/cover.jpg
 creator:
   author:
     agent_name: Heredia, José-María de
     gutenberg_agent_id: '51834'
     url: http://www.gutenberg.org/2009/agents/51834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62216#La-Nonne-Alferez
 gutenberg_issued: '2020-05-24'
 gutenberg_type: Text
 identifiers:
